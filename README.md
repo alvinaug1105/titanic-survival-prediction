@@ -9,7 +9,7 @@ Predicting survival of Titanic passengers using Machine Learning.
 This is my solution to the [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic).
 
 ## Result
-- **Kaggle Score: 0.78808**
+- **Kaggle Score: 0.78708**
 - Model: Soft Voting Ensemble (GBM + Random Forest + Logistic Regression)
 
 ## Tools Used
